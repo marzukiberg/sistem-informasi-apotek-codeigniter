@@ -1,3 +1,6 @@
+Demo Aplikasi: http://marzuki.unaux.com/apotek-ci/
+
+
 Tutorial Instalasi
 
 1. Sesuaikan url situs melalui 'application/config/config.php'
