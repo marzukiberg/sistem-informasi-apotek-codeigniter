@@ -14,7 +14,3 @@ Login admin:
 
 username: admin
 password: admin
-
-.
-.
-JIKA ADA KEKURANGAN / KESALAHAN HUBUNGI ADMIN MELALUI EMAIL : marzukiberg@gmail.com
